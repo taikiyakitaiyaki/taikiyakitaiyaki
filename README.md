@@ -6,6 +6,14 @@ Currently exploring how technology can be used to create useful and user-friendl
 
 **Portfolio:** [taikiyakitaiyaki.github.io](https://taikiyakitaiyaki.github.io)
 
+## GitHub Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taikiyakitaiyaki/taikiyakitaiyaki/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taikiyakitaiyaki/taikiyaki/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/taikiyakitaiyaki/taikiyakitaiyaki/output/pacman-contribution-graph.svg">
+</picture>
+
 ---
 
 ## Technologies
@@ -15,10 +23,6 @@ Currently exploring how technology can be used to create useful and user-friendl
 ---
 
 ## Projects
-
-### Portfolio
-
-My personal portfolio showcasing projects, skills, and things I've built.
 
 ### PauseCat
 
@@ -49,13 +53,3 @@ A university project exploring an AI-powered financial guidance assistant for Ka
   <img src="https://github-readme-stats.vercel.app/api?username=taikiyakitaiyaki&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taikiyakitaiyaki&layout=compact&hide_border=true" height="170"/>
 </p>
-
----
-
-## GitHub Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taikiyakitaiyaki/taikiyakitaiyaki/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taikiyakitaiyaki/taikiyakitaiyaki/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/taikiyakitaiyaki/taikiyakitaiyaki/output/pacman-contribution-graph.svg">
-</picture>
