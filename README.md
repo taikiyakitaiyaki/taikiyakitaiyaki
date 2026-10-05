@@ -1,16 +1,17 @@
 # Hi, I'm My Trinh Hoang
 
-IT and Information Systems student at **University of Agder (UiA)**<br>
-Interested in **frontend development, AI, and UX/UI**<br>
+IT and Information Systems student at **University of Agder (UiA)**<br><br>
+Interested in **frontend development, AI, and UX/UI**<br><br>
 Currently exploring how technology can be used to create useful and user-friendly applications.
 
 **Portfolio:** [taikiyakitaiyaki.github.io](https://taikiyakitaiyaki.github.io)
 
 ## GitHub Activity
 
+## GitHub Activity
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taikiyakitaiyaki/taikiyakitaiyaki/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taikiyakitaiyaki/taikiyaki/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taikiyakitaiyaki/taikiyakitaiyaki/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/taikiyakitaiyaki/taikiyakitaiyaki/output/pacman-contribution-graph.svg">
 </picture>
 
