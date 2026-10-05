@@ -1,22 +1,22 @@
 # Hi, I'm My Trinh Hoang 👋🐱
 
-🎓 IT and Information Systems student at **University of Agder (UiA)**
-💻 Interested in **frontend development, AI, and UX/UI**
+🎓 IT and Information Systems student at **University of Agder (UiA)**<br>
+💻 Interested in **frontend development, AI, and UX/UI**<br>
 🌱 Always learning, building, and experimenting with new ideas.
 
 🔗 **[Portfolio](https://taikiyakitaiyaki.github.io)**
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,git,github" />
 </p>
 
 ---
 
-## 🌱 Currently learning
+## Currently learning
 
 * 🤖 AI & AI-powered applications
 * 🎨 UX/UI and interaction design
@@ -25,7 +25,7 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
 🌐 **Portfolio**
 My personal portfolio showcasing my projects, skills, and things I've built.
@@ -41,7 +41,7 @@ A university project exploring an AI-powered financial guidance assistant for Ka
 
 ---
 
-## 🎮 Current Status
+## Current Status
 
 ```text
 ╭────────────────────────────────────╮
@@ -58,7 +58,7 @@ A university project exploring an AI-powered financial guidance assistant for Ka
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=taikiyakitaiyaki&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
@@ -67,7 +67,7 @@ A university project exploring an AI-powered financial guidance assistant for Ka
 
 ---
 
-## 🎮 GitHub Activity
+## GitHub Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taikiyakitaiyaki/taikiyakitaiyaki/output/pacman-contribution-graph-dark.svg">
@@ -77,7 +77,7 @@ A university project exploring an AI-powered financial guidance assistant for Ka
 
 ---
 
-## 🐾 A little more about me
+## A little more about me
 
 ```text
 # who am i
