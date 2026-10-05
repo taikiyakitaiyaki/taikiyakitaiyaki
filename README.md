@@ -29,7 +29,7 @@ A desktop application that reminds users to take regular breaks while using thei
 
 ### Plantly
 
-An application for keeping track of watering plants at home. Currently on hold.
+An application for keeping track of watering plants at home.
 
 ### Kartverket AI Project
 
