@@ -1,12 +1,10 @@
 # Hi, I'm My Trinh Hoang
 
-IT and Information Systems student at **University of Agder (UiA)**<br><br>
-Interested in **frontend development, AI, and UX/UI**<br><br>
+IT and Information Systems student at **University of Agder (UiA).**<br><br>
+Interested in **frontend development, AI, and UX/UI**.<br><br>
 Currently exploring how technology can be used to create useful and user-friendly applications.
 
 **Portfolio:** [taikiyakitaiyaki.github.io](https://taikiyakitaiyaki.github.io)
-
-## GitHub Activity
 
 ## GitHub Activity
 <picture>
