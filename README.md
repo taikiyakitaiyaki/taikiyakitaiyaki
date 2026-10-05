@@ -47,11 +47,11 @@ A university project exploring an AI-powered financial guidance assistant for Ka
 ╭────────────────────────────────────╮
 │                                    │
 │  🐱 Coding...                      │
-│  🍚 Food:   ██████████ 100%        │
-│  🧠 Brain:  ██████░░░░ 60%         │
-│  🐛 Bugs:   █████████░ 90%         │
+│  🍚 Food:     ██████████ 100%      │
+│  🧠 Brain:    ███████░░░ 70%       │
+│  😴 Energy:   ████░░░░░░ 40%       │
 │                                    │
-│  Quest: Become a better developer  │
+│  Quest: Build cool things ✨       │
 │                                    │
 ╰────────────────────────────────────╯
 ```
@@ -80,12 +80,12 @@ A university project exploring an AI-powered financial guidance assistant for Ka
 ## 🐾 A little more about me
 
 ```text
-> whoami
+# who am i
 
 My Trinh Hoang
 IT student @ UiA
 
-> interests
+# interests
 
 Frontend development
 Artificial intelligence
