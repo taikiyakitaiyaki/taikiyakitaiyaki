@@ -31,6 +31,10 @@ A desktop application that reminds users to take regular breaks while using thei
 
 An application for keeping track of watering plants at home.
 
+### 💍 Wedding Website
+
+A responsive event website built with Next.js, focusing on user-friendly design, interactive elements, and responsive layouts.
+
 ### 🗺️ Kartverket AI Project
 
 A university project exploring an AI-powered financial guidance assistant for Kartverket.
