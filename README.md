@@ -17,7 +17,7 @@ Currently exploring how technology can be used to create useful and user-friendl
 
 ## Technologies
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,git,github" />
+<img src="https://skillicons.dev/icons?i=figma,python,js,html,css,react,nextjs,git,github" />
 
 ---
 
