@@ -23,15 +23,15 @@ Currently exploring how technology can be used to create useful and user-friendl
 
 ## Projects
 
-### PauseCat
+### 🐱 PauseCat
 
 A desktop application that reminds users to take regular breaks while using their computer.
 
-### Plantly
+### 🌱 Plantly
 
 An application for keeping track of watering plants at home.
 
-### Kartverket AI Project
+### 🗺️ Kartverket AI Project
 
 A university project exploring an AI-powered financial guidance assistant for Kartverket.
 
