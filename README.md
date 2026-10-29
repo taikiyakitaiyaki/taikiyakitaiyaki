@@ -53,6 +53,6 @@ A university project exploring an AI-powered financial guidance assistant for Ka
 ## GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=taikiyakitaiyaki&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taikiyakitaiyaki&layout=compact&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=taikiyakitaiyaki&show_icons=true&hide_border=true" height="170" alt="GitHub-statistikk"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taikiyakitaiyaki&layout=compact&hide_border=true" height="170" alt="Mest brukte språk"/>
 </p>
